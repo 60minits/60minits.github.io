@@ -124,10 +124,10 @@
         },
         {
           "_params": {
-            "paddingTop": "0",
+            "paddingTop": "1",
             "paddingBottom": "0",
             "showTitle": true,
-            "showText": true,
+            "showText": false,
             "bgImageRadio": false,
             "bgImage": "@THEME_PATH@/components/_images/1.jpg",
             "parallax": false,
@@ -141,8 +141,8 @@
             "overlayColor": "#151515",
             "overlayOpacity": 0.5
           },
-          "title": "Pembiayaan Peribadi",
-          "text": "- Ovelap, Pembiayaan Baharu, Hire Purchase<br><br>- MBSB, Agro, CIMB, Public, AEON, Coshare, Affin, Koperasi &amp; P2P",
+          "title": "Pembiayaan Peribadi<br>- Ovelap, Pembiayaan Baharu, Hire Purchase\r<div>- MBSB, Agro, CIMB, Public, AEON, Coshare, Affin, Koperasi &amp; P2P</div>",
+          "text": "",
           "buttons": "<a data-app-btn=\"true\" href=\"http://mobirise.com\" class=\"btn btn-primary\" role=\"button\">download now</a>",
           "alias": "spacem/components",
           "_tags": [
