@@ -18,13 +18,13 @@
         "isRoundedButtons": true
       },
       "additionalSetColors": [
+        "#d1d0d0",
         "#6f9bf4",
         "#92b2f3",
         "#ccf9e1",
         "#fafdfb",
         "#f8f3d8",
-        "#151515",
-        "#ece4b9"
+        "#151515"
       ]
     },
     "path": "@PROJECT_PATH@",
@@ -33,7 +33,7 @@
     "favicon": "@PROJECT_PATH@/assets/images/group-of-members-users-icon-128x128.png",
     "noImageResize": "",
     "scrollAnimation": "",
-    "uniqCompNum": 14,
+    "uniqCompNum": 16,
     "versionPublish": "4.8.10",
     "screenshot": "screenshot.png"
   },
@@ -119,6 +119,48 @@
               "font-size": "36px",
               "font-family": "'Lato', sans-serif",
               "googleLink": "https://fonts.googleapis.com/css?family=Lato:400,300,700"
+            }
+          }
+        },
+        {
+          "_params": {
+            "paddingTop": "1",
+            "paddingBottom": "0",
+            "showTitle": true,
+            "showText": true,
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/1.jpg",
+            "parallax": false,
+            "bgColorRadio": true,
+            "bgColor": "#fff",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": true,
+            "overlayColor": "#151515",
+            "overlayOpacity": 0.5
+          },
+          "title": "Pembiayaan Peribadi",
+          "text": "- Ovelap, Pembiayaan Baharu, Hire Purchase<br><br>- MBSB, Agro, CIMB, Public, AEON, Coshare, Affin, Koperasi &amp; P2P",
+          "buttons": "<a data-app-btn=\"true\" href=\"http://mobirise.com\" class=\"btn btn-primary\" role=\"button\">download now</a>",
+          "alias": "spacem/components",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "text1",
+          "_anchor": "text1-f",
+          "_styles": {
+            "H3": {
+              "text-align": "center",
+              "font-family": "'Lato', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Lato:400,300,700",
+              "font-size": "25px"
+            },
+            "P": {
+              "text-align": "center",
+              "font-size": "19px",
+              "color": "#000000"
             }
           }
         },
@@ -359,7 +401,7 @@
             "bgImage": "@THEME_PATH@/components/_images/1.jpg",
             "parallax": false,
             "bgColorRadio": true,
-            "bgColor": "#e5e5e5",
+            "bgColor": "#d1d0d0",
             "bgVideoRadio": false,
             "bgVideo": {
               "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
