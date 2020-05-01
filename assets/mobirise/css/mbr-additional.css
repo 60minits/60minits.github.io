@@ -1,5 +1,4 @@
 @import url(https://fonts.googleapis.com/css?family=Lato:400,300,700);
-@import url(https://fonts.googleapis.com/css?family=Arapey:400,400i);
 
 
 
@@ -36,7 +35,7 @@ h6,
 .timer,
 cite,
 .page_head blockquote p {
-  font-family: 'Arapey', sans-serif;
+  font-family: 'Lato', sans-serif;
 }
 .mbr-footer-content h1,
 .mbr-footer .mbr-contacts h1,
@@ -50,10 +49,10 @@ cite,
 .mbr-footer .mbr-contacts p strong,
 .mbr-footer-content strong,
 .mbr-footer .mbr-contacts strong {
-  font-family: 'Arapey', sans-serif;
+  font-family: 'Lato', sans-serif;
 }
 .mbr-author-name {
-  font-family: 'Arapey', sans-serif;
+  font-family: 'Lato', sans-serif;
 }
 .mbr-author-desc {
   font-family: 'Lato', sans-serif;

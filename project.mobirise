@@ -12,7 +12,7 @@
         "infoColor": "#22b064",
         "warningColor": "#f7d40c",
         "dangerColor": "#EB5A1A",
-        "titleFont": "Arapey",
+        "titleFont": "Lato",
         "subtitleFont": "Lato",
         "textFont": "Lato",
         "isRoundedButtons": true
@@ -42,7 +42,7 @@
       "settings": {
         "main": true,
         "title": "Home",
-        "meta_descr": "",
+        "meta_descr": "Pembiayaan perbadi untuk sektor awam & swasta. Perkhidmatan termasuk Overlap, Pembiayaan Baharu  dan Sewa Beli. Panduan boleh melalui Whatsapp sahaja.",
         "header_custom": "",
         "footer_custom": "",
         "html_before": ""
@@ -141,7 +141,7 @@
             "overlayColor": "#151515",
             "overlayOpacity": 0.5
           },
-          "title": "Pembiayaan Peribadi<br>- Ovelap, Pembiayaan Baharu, Hire Purchase\n<div>- MBSB, Agro, CIMB, Public, AEON, Coshare, Affin, Koperasi &amp; P2P</div>",
+          "title": "Pembiayaan Peribadi<br>- Ovelap, Pembiayaan Baharu, Hire Purchase\n<div>- MBSB, Agro, CIMB, Public, AEON, Coshare, Affin, Koperasi, Hire Purchase &amp; P2P</div>",
           "text": "",
           "buttons": "<a data-app-btn=\"true\" href=\"http://mobirise.com\" class=\"btn btn-primary\" role=\"button\">download now</a>",
           "alias": "spacem/components",
