@@ -102,7 +102,7 @@
               "font-family": "'Lato', sans-serif",
               "googleLink": "https://fonts.googleapis.com/css?family=Lato:400,300,700",
               "color": "#1549ba",
-              "font-size": "72px"
+              "font-size": "36px"
             },
             ".btn": {
               "font-size": "24px"
@@ -110,6 +110,9 @@
             "P": {
               "font-size": "24px",
               "color": "#000000"
+            },
+            "B": {
+              "font-size": "30px"
             }
           }
         },

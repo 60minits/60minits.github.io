@@ -549,7 +549,7 @@ a:hover,
 #header3-1 SPAN {
   font-family: 'Lato', sans-serif;
   color: #1549ba;
-  font-size: 72px;
+  font-size: 36px;
 }
 #header3-1 .btn {
   font-size: 24px;
@@ -557,6 +557,9 @@ a:hover,
 #header3-1 P {
   font-size: 24px;
   color: #000000;
+}
+#header3-1 B {
+  font-size: 30px;
 }
 #content3-2 P {
   color: #151515;
