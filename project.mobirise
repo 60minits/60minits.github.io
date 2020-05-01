@@ -33,7 +33,7 @@
     "favicon": "@PROJECT_PATH@/assets/images/group-of-members-users-icon-128x128.png",
     "noImageResize": "",
     "scrollAnimation": "",
-    "uniqCompNum": 11,
+    "uniqCompNum": 12,
     "versionPublish": "4.8.10",
     "screenshot": "screenshot.png"
   },
@@ -119,40 +119,6 @@
               "font-size": "36px",
               "font-family": "'Lato', sans-serif",
               "googleLink": "https://fonts.googleapis.com/css?family=Lato:400,300,700"
-            }
-          }
-        },
-        {
-          "_params": {
-            "paddingTop": "0",
-            "paddingBottom": "0",
-            "bgImageRadio": false,
-            "bgImage": "@THEME_PATH@/components/_images/1.jpg",
-            "parallax": false,
-            "bgColorRadio": true,
-            "bgColor": "#ccf9e1",
-            "bgVideoRadio": false,
-            "bgVideo": {
-              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
-            },
-            "overlay": true,
-            "overlayColor": "#151515",
-            "overlayOpacity": 0.5
-          },
-          "title": "Text with heading",
-          "text": "Maklumat pembiayaan peribadi &amp; permohonan melalui Whatsapp",
-          "buttons": "<a data-app-btn=\"true\" href=\"http://mobirise.com\" class=\"btn btn-primary\" role=\"button\">download now</a>",
-          "alias": "spacem/components",
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "text9",
-          "_anchor": "text9-a",
-          "_styles": {
-            "P": {
-              "font-family": "'Lato', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Lato:400,300,700",
-              "font-size": "25px"
             }
           }
         },
@@ -289,10 +255,10 @@
         {
           "_params": {
             "paddingTop": "1",
-            "paddingBottom": "1",
+            "paddingBottom": "0",
             "showTitle": true,
             "showSeparator": false,
-            "showSubtitle": false,
+            "showSubtitle": true,
             "showText": false,
             "showButtons": false,
             "parallax": false,
@@ -308,8 +274,8 @@
             "overlayColor": "#151515",
             "overlayOpacity": 0.75
           },
-          "title": "<span style=\"font-weight: normal;\"><i>Permohonan bole melalui Whatsapp sahaja</i></span>",
-          "subtitle": "Subtitle",
+          "title": "<br>",
+          "subtitle": "Permohonan bole melalui Whatsapp sahaja",
           "text": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ratione quis quidem laboriosam, enim rem nobis ab laudantium. Aliquam, ipsum, impedit accusantium ex cum facilis ut tempora vero nesciunt mollitia ullam, quisquam quia cupiditate esse repudiandae. Vero nisi velit sint minima et adipisci culpa iusto ea obcaecati! Voluptatibus consectetur nulla, asperiores.",
           "buttons": "<a data-app-btn=\"true\" href=\"http://mobirise.com\" class=\"btn btn-black\" role=\"button\">learn more</a>",
           "alias": "spacem/components",
@@ -324,6 +290,10 @@
               "font-family": "'Lato', sans-serif",
               "googleLink": "https://fonts.googleapis.com/css?family=Lato:400,300,700",
               "font-size": "30px"
+            },
+            "H5": {
+              "font-size": "25px",
+              "color": "#ffffff"
             }
           }
         },

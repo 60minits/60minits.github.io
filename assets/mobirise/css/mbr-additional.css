@@ -9,7 +9,6 @@
 
 
 
-
 /*TITLE*/
 .alert,
 h1,
@@ -568,10 +567,6 @@ a:hover,
   font-size: 36px;
   font-family: 'Lato', sans-serif;
 }
-#text9-a P {
-  font-family: 'Lato', sans-serif;
-  font-size: 25px;
-}
 #content3-2 P {
   color: #151515;
   font-size: 19px;
@@ -583,6 +578,10 @@ a:hover,
   color: #ffffff;
   font-family: 'Lato', sans-serif;
   font-size: 30px;
+}
+#title4-7 H5 {
+  font-size: 25px;
+  color: #ffffff;
 }
 #title3-5 P {
   color: #000000;
