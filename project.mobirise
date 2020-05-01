@@ -18,13 +18,13 @@
         "isRoundedButtons": true
       },
       "additionalSetColors": [
+        "#ccf9e1",
         "#fafdfb",
         "#f8f3d8",
         "#151515",
         "#ece4b9",
         "#e4dede",
-        "#f6f1dc",
-        "#edf1ee"
+        "#f6f1dc"
       ]
     },
     "path": "@PROJECT_PATH@",
@@ -68,7 +68,7 @@
               "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
             },
             "overlay": true,
-            "overlayColor": "#edf1ee",
+            "overlayColor": "#ccf9e1",
             "overlayOpacity": "0.8"
           },
           "media": {
