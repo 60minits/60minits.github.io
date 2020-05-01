@@ -553,7 +553,7 @@ a:hover,
   font-size: 36px;
 }
 #header3-1 .btn {
-  font-size: 18px;
+  font-size: 17px;
 }
 #header3-1 P {
   font-size: 24px;
@@ -561,6 +561,7 @@ a:hover,
 }
 #header3-1 B {
   font-size: 30px;
+  color: #ffffff;
 }
 #header3-1 H1 {
   font-size: 36px;

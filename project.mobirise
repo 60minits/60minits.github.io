@@ -18,13 +18,13 @@
         "isRoundedButtons": true
       },
       "additionalSetColors": [
+        "#6f9bf4",
         "#92b2f3",
         "#ccf9e1",
         "#fafdfb",
         "#f8f3d8",
         "#151515",
-        "#ece4b9",
-        "#e4dede"
+        "#ece4b9"
       ]
     },
     "path": "@PROJECT_PATH@",
@@ -55,8 +55,8 @@
             "showTitle": true,
             "showSubtitle": true,
             "showButtons": true,
-            "showMedia": false,
-            "imageSize": 50,
+            "showMedia": true,
+            "imageSize": "16",
             "inverse": true,
             "parallax": false,
             "bgImageRadio": true,
@@ -68,13 +68,13 @@
               "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
             },
             "overlay": true,
-            "overlayColor": "#92b2f3",
+            "overlayColor": "#6f9bf4",
             "overlayOpacity": "0.8"
           },
           "media": {
             "image": {
               "class": "mbr-figure__img",
-              "src": "@PROJECT_PATH@/assets/images/60minit1-294x293.jpg",
+              "src": "@PROJECT_PATH@/assets/images/yoast-avatar-joost-rd-x2-283x269.png",
               "link": "",
               "alt": "",
               "title": "",
@@ -105,14 +105,15 @@
               "font-size": "36px"
             },
             ".btn": {
-              "font-size": "18px"
+              "font-size": "17px"
             },
             "P": {
               "font-size": "24px",
               "color": "#000000"
             },
             "B": {
-              "font-size": "30px"
+              "font-size": "30px",
+              "color": "#ffffff"
             },
             "H1": {
               "font-size": "36px",
