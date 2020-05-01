@@ -33,7 +33,7 @@
     "favicon": "@PROJECT_PATH@/assets/images/group-of-members-users-icon-128x128.png",
     "noImageResize": "",
     "scrollAnimation": "",
-    "uniqCompNum": 12,
+    "uniqCompNum": 14,
     "versionPublish": "4.8.10",
     "screenshot": "screenshot.png"
   },
@@ -275,7 +275,7 @@
             "overlayOpacity": 0.75
           },
           "title": "<br>",
-          "subtitle": "Permohonan bole melalui Whatsapp sahaja",
+          "subtitle": "Maklumat &amp; Panduan bole melalui Whatsapp sahaja",
           "text": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ratione quis quidem laboriosam, enim rem nobis ab laudantium. Aliquam, ipsum, impedit accusantium ex cum facilis ut tempora vero nesciunt mollitia ullam, quisquam quia cupiditate esse repudiandae. Vero nisi velit sint minima et adipisci culpa iusto ea obcaecati! Voluptatibus consectetur nulla, asperiores.",
           "buttons": "<a data-app-btn=\"true\" href=\"http://mobirise.com\" class=\"btn btn-black\" role=\"button\">learn more</a>",
           "alias": "spacem/components",
