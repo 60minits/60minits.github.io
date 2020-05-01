@@ -9,6 +9,7 @@
 
 
 
+
 /*TITLE*/
 .alert,
 h1,
@@ -566,6 +567,15 @@ a:hover,
 #header3-1 H1 {
   font-size: 36px;
   font-family: 'Lato', sans-serif;
+}
+#title4-g SPAN {
+  color: #ffffff;
+  font-family: 'Lato', sans-serif;
+  font-size: 30px;
+}
+#title4-g H5 {
+  font-size: 25px;
+  color: #ffffff;
 }
 #text1-f H3 {
   text-align: center;

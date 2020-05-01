@@ -33,7 +33,7 @@
     "favicon": "@PROJECT_PATH@/assets/images/group-of-members-users-icon-128x128.png",
     "noImageResize": "",
     "scrollAnimation": "",
-    "uniqCompNum": 16,
+    "uniqCompNum": 17,
     "versionPublish": "4.8.10",
     "screenshot": "screenshot.png"
   },
@@ -125,6 +125,51 @@
         {
           "_params": {
             "paddingTop": "1",
+            "paddingBottom": "1",
+            "showTitle": false,
+            "showSeparator": false,
+            "showSubtitle": true,
+            "showText": false,
+            "showButtons": false,
+            "parallax": false,
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/1.jpg",
+            "bgColorRadio": true,
+            "bgColor": "#1549ba",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": true,
+            "overlayColor": "#151515",
+            "overlayOpacity": 0.75
+          },
+          "title": "",
+          "subtitle": "Panduannya mudah dan ringkas.&nbsp;<br><br>Whatsapp sahaja",
+          "text": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ratione quis quidem laboriosam, enim rem nobis ab laudantium. Aliquam, ipsum, impedit accusantium ex cum facilis ut tempora vero nesciunt mollitia ullam, quisquam quia cupiditate esse repudiandae. Vero nisi velit sint minima et adipisci culpa iusto ea obcaecati! Voluptatibus consectetur nulla, asperiores.",
+          "buttons": "<a data-app-btn=\"true\" href=\"http://mobirise.com\" class=\"btn btn-black\" role=\"button\">learn more</a>",
+          "alias": "spacem/components",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "title4",
+          "_styles": {
+            "SPAN": {
+              "color": "#ffffff",
+              "font-family": "'Lato', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Lato:400,300,700",
+              "font-size": "30px"
+            },
+            "H5": {
+              "font-size": "25px",
+              "color": "#ffffff"
+            }
+          },
+          "_anchor": "title4-g"
+        },
+        {
+          "_params": {
+            "paddingTop": "1",
             "paddingBottom": "0",
             "showTitle": true,
             "showText": false,
@@ -141,7 +186,7 @@
             "overlayColor": "#151515",
             "overlayOpacity": 0.5
           },
-          "title": "Pembiayaan Peribadi<br>- Ovelap, Pembiayaan Baharu, Hire Purchase\n<div>- MBSB, Agro, CIMB, Public, AEON, Coshare, Affin, Koperasi, Hire Purchase &amp; P2P</div><div>Panduannya mudah dan ringkas. Whatsapp sahaja</div>",
+          "title": "Pembiayaan Peribadi<br>- Ovelap, Pembiayaan Baharu, Hire Purchase\n<div>- MBSB, Agro, CIMB, Public, AEON, Coshare, Affin, Koperasi, Hire Purchase &amp; P2P</div>",
           "text": "",
           "buttons": "<a data-app-btn=\"true\" href=\"http://mobirise.com\" class=\"btn btn-primary\" role=\"button\">download now</a>",
           "alias": "spacem/components",
@@ -319,7 +364,7 @@
             "overlayColor": "#151515",
             "overlayOpacity": 0.75
           },
-          "title": "<br>",
+          "title": "",
           "subtitle": "Maklumat &amp; Panduan bole melalui Whatsapp sahaja",
           "text": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ratione quis quidem laboriosam, enim rem nobis ab laudantium. Aliquam, ipsum, impedit accusantium ex cum facilis ut tempora vero nesciunt mollitia ullam, quisquam quia cupiditate esse repudiandae. Vero nisi velit sint minima et adipisci culpa iusto ea obcaecati! Voluptatibus consectetur nulla, asperiores.",
           "buttons": "<a data-app-btn=\"true\" href=\"http://mobirise.com\" class=\"btn btn-black\" role=\"button\">learn more</a>",
