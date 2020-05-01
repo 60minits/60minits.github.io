@@ -124,7 +124,7 @@
         },
         {
           "_params": {
-            "paddingTop": "1",
+            "paddingTop": "0",
             "paddingBottom": "0",
             "showTitle": true,
             "showText": true,
