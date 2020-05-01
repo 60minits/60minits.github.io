@@ -90,7 +90,7 @@
           },
           "title": "<span style=\"font-weight: normal;\"><i>60 Minits</i></span>",
           "text": "<b>Overlap, Pembiayaan Baharu, Hire Purchase</b><br><br><b>Maklumat &amp; permohonan melalui Whatsapp&nbsp;</b>",
-          "buttons": "<a data-app-btn=\"true\" href=\"http://mobirise.com\" class=\"btn btn-secondary\" role=\"button\">Whatsapp Kami</a> ",
+          "buttons": "<a data-app-btn=\"true\" href=\"http://mobirise.com\" class=\"btn btn-warning\" role=\"button\">Whatsapp Kami</a> ",
           "alias": "spacem/components",
           "_tags": [
             "Theme"
@@ -105,7 +105,7 @@
               "font-size": "36px"
             },
             ".btn": {
-              "font-size": "24px"
+              "font-size": "18px"
             },
             "P": {
               "font-size": "24px",
