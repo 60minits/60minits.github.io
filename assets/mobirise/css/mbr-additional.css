@@ -8,6 +8,7 @@
 
 
 
+
 /*TITLE*/
 .alert,
 h1,
@@ -560,6 +561,10 @@ a:hover,
 }
 #header3-1 B {
   font-size: 30px;
+}
+#header3-1 H1 {
+  font-size: 36px;
+  font-family: 'Lato', sans-serif;
 }
 #content3-2 P {
   color: #151515;
