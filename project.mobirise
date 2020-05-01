@@ -393,7 +393,7 @@
         },
         {
           "_params": {
-            "paddingTop": "0",
+            "paddingTop": "1",
             "paddingBottom": 1,
             "showTitle": true,
             "showText": true,
