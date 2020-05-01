@@ -54,7 +54,7 @@
             "paddingBottom": "1",
             "showTitle": true,
             "showSubtitle": true,
-            "showButtons": false,
+            "showButtons": true,
             "showMedia": false,
             "imageSize": 50,
             "inverse": true,
@@ -90,7 +90,7 @@
           },
           "title": "<span style=\"font-weight: normal;\"><i>60 Minits</i></span>",
           "text": "<b>Overlap, Pembiayaan Baharu, Hire Purchase</b><br><br><b>Maklumat &amp; permohonan melalui Whatsapp&nbsp;</b>",
-          "buttons": "<a data-app-btn=\"true\" href=\"http://mobirise.com\" class=\"btn btn-secondary\" role=\"button\">Hubungi Kami</a> ",
+          "buttons": "<a data-app-btn=\"true\" href=\"http://mobirise.com\" class=\"btn btn-secondary\" role=\"button\">Whatsapp Kami</a> ",
           "alias": "spacem/components",
           "_tags": [
             "Theme"
