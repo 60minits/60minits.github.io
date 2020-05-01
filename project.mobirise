@@ -141,7 +141,7 @@
             "overlayColor": "#151515",
             "overlayOpacity": 0.5
           },
-          "title": "Pembiayaan Peribadi<br>- Ovelap, Pembiayaan Baharu, Hire Purchase\n<div>- MBSB, Agro, CIMB, Public, AEON, Coshare, Affin, Koperasi, Hire Purchase &amp; P2P</div>",
+          "title": "Pembiayaan Peribadi<br>- Ovelap, Pembiayaan Baharu, Hire Purchase\n<div>- MBSB, Agro, CIMB, Public, AEON, Coshare, Affin, Koperasi, Hire Purchase &amp; P2P</div><div>Panduannya mudah dan ringkas. Whatsapp sahaja</div>",
           "text": "",
           "buttons": "<a data-app-btn=\"true\" href=\"http://mobirise.com\" class=\"btn btn-primary\" role=\"button\">download now</a>",
           "alias": "spacem/components",
@@ -160,6 +160,9 @@
             "P": {
               "text-align": "center",
               "font-size": "19px",
+              "color": "#000000"
+            },
+            "DIV": {
               "color": "#000000"
             }
           }
