@@ -345,8 +345,8 @@
         {
           "_params": {
             "paddingTop": "1",
-            "paddingBottom": "0",
-            "showTitle": true,
+            "paddingBottom": "1",
+            "showTitle": false,
             "showSeparator": false,
             "showSubtitle": true,
             "showText": false,
@@ -365,7 +365,7 @@
             "overlayOpacity": 0.75
           },
           "title": "",
-          "subtitle": "Maklumat &amp; Panduan bole melalui Whatsapp sahaja",
+          "subtitle": "Maklumat &amp; Panduan bole melalui Whatsapp sahaja<br><br>Overlap &amp; Pembiayaan Baharu",
           "text": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ratione quis quidem laboriosam, enim rem nobis ab laudantium. Aliquam, ipsum, impedit accusantium ex cum facilis ut tempora vero nesciunt mollitia ullam, quisquam quia cupiditate esse repudiandae. Vero nisi velit sint minima et adipisci culpa iusto ea obcaecati! Voluptatibus consectetur nulla, asperiores.",
           "buttons": "<a data-app-btn=\"true\" href=\"http://mobirise.com\" class=\"btn btn-black\" role=\"button\">learn more</a>",
           "alias": "spacem/components",
