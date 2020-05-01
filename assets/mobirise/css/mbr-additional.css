@@ -568,15 +568,6 @@ a:hover,
   font-size: 36px;
   font-family: 'Lato', sans-serif;
 }
-#title4-g SPAN {
-  color: #ffffff;
-  font-family: 'Lato', sans-serif;
-  font-size: 30px;
-}
-#title4-g H5 {
-  font-size: 25px;
-  color: #000000;
-}
 #text1-f H3 {
   text-align: center;
   font-family: 'Lato', sans-serif;
@@ -589,6 +580,21 @@ a:hover,
 }
 #text1-f DIV {
   color: #000000;
+}
+#title4-g SPAN {
+  color: #ffffff;
+  font-family: 'Lato', sans-serif;
+  font-size: 30px;
+}
+#title4-g H5 {
+  font-size: 25px;
+  color: #000000;
+}
+#custom-html-k {
+  /* Type valid CSS here */
+}
+#custom-html-k .my-image {
+  width: 100%;
 }
 #content3-2 P {
   color: #151515;

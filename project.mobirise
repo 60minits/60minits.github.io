@@ -33,7 +33,7 @@
     "favicon": "@PROJECT_PATH@/assets/images/group-of-members-users-icon-128x128.png",
     "noImageResize": "",
     "scrollAnimation": "",
-    "uniqCompNum": 17,
+    "uniqCompNum": 21,
     "versionPublish": "4.8.10",
     "screenshot": "screenshot.png"
   },
@@ -89,8 +89,8 @@
             }
           },
           "title": "60 Minits",
-          "text": "<b>Overlap, Pembiayaan Baharu, Hire Purchase</b><br><br><b>Maklumat &amp; Panduan melalui Whatsapp&nbsp;</b>",
-          "buttons": "<a data-app-btn=\"true\" href=\"https://wa.me/60192221667\" class=\"btn btn-warning\" role=\"button\">Whatsapp Kami</a> ",
+          "text": "<b>Overlap, Pembiayaan Baharu, Hire Purchase</b><br><br><b>Pembiayaan Peribadi 2020</b>",
+          "buttons": "<a data-app-btn=\"true\" href=\"https://wa.me/60192221667\" class=\"btn btn-warning\" role=\"button\">Whatsapp Kami</a>  ",
           "alias": "spacem/components",
           "_tags": [
             "Theme"
@@ -121,51 +121,6 @@
               "googleLink": "https://fonts.googleapis.com/css?family=Lato:400,300,700"
             }
           }
-        },
-        {
-          "_params": {
-            "paddingTop": "1",
-            "paddingBottom": "1",
-            "showTitle": false,
-            "showSeparator": false,
-            "showSubtitle": true,
-            "showText": false,
-            "showButtons": false,
-            "parallax": false,
-            "bgImageRadio": false,
-            "bgImage": "@THEME_PATH@/components/_images/1.jpg",
-            "bgColorRadio": true,
-            "bgColor": "#ffffff",
-            "bgVideoRadio": false,
-            "bgVideo": {
-              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
-            },
-            "overlay": true,
-            "overlayColor": "#151515",
-            "overlayOpacity": 0.75
-          },
-          "title": "",
-          "subtitle": "Panduannya mudah dan ringkas.&nbsp;<br><br><a href=\"https://wa.me/60192221667\">Whatsapp</a> sahaja",
-          "text": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ratione quis quidem laboriosam, enim rem nobis ab laudantium. Aliquam, ipsum, impedit accusantium ex cum facilis ut tempora vero nesciunt mollitia ullam, quisquam quia cupiditate esse repudiandae. Vero nisi velit sint minima et adipisci culpa iusto ea obcaecati! Voluptatibus consectetur nulla, asperiores.",
-          "buttons": "<a data-app-btn=\"true\" href=\"http://mobirise.com\" class=\"btn btn-black\" role=\"button\">learn more</a>",
-          "alias": "spacem/components",
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "title4",
-          "_styles": {
-            "SPAN": {
-              "color": "#ffffff",
-              "font-family": "'Lato', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Lato:400,300,700",
-              "font-size": "30px"
-            },
-            "H5": {
-              "font-size": "25px",
-              "color": "#000000"
-            }
-          },
-          "_anchor": "title4-g"
         },
         {
           "_params": {
@@ -211,6 +166,65 @@
               "color": "#000000"
             }
           }
+        },
+        {
+          "_params": {
+            "paddingTop": "1",
+            "paddingBottom": "1",
+            "showTitle": false,
+            "showSeparator": false,
+            "showSubtitle": true,
+            "showText": false,
+            "showButtons": false,
+            "parallax": false,
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/1.jpg",
+            "bgColorRadio": true,
+            "bgColor": "#ffffff",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": true,
+            "overlayColor": "#151515",
+            "overlayOpacity": 0.75
+          },
+          "title": "",
+          "subtitle": "Permohonan mudah dan ringkas.&nbsp;<br><br>Sila semak kelayakan melalui borang online dibawah",
+          "text": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ratione quis quidem laboriosam, enim rem nobis ab laudantium. Aliquam, ipsum, impedit accusantium ex cum facilis ut tempora vero nesciunt mollitia ullam, quisquam quia cupiditate esse repudiandae. Vero nisi velit sint minima et adipisci culpa iusto ea obcaecati! Voluptatibus consectetur nulla, asperiores.",
+          "buttons": "<a data-app-btn=\"true\" href=\"http://mobirise.com\" class=\"btn btn-black\" role=\"button\">learn more</a>",
+          "alias": "spacem/components",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "title4",
+          "_styles": {
+            "SPAN": {
+              "color": "#ffffff",
+              "font-family": "'Lato', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Lato:400,300,700",
+              "font-size": "30px"
+            },
+            "H5": {
+              "font-size": "25px",
+              "color": "#000000"
+            }
+          },
+          "_anchor": "title4-g"
+        },
+        {
+          "_customTemplate": true,
+          "_afterNavbarItem": false,
+          "_customHTML": "<!-- Type valid HTML here -->\n<iframe src=\"https://docs.google.com/forms/d/e/1FAIpQLSfZ3M2cujWegkcWjX-REw7-ix43-9nLYeY8N9jX9_VIpd0zfw/viewform?\" style=\"position:relative;width:1px;min-width:100%;*width:100%;\" frameborder=\"0\" scrolling=\"yes\" seamless=\"seamless\" height=\"1000\" width=\"100%\"></iframe>",
+          "_customCSS": "/* Type valid CSS here */\n.my-image {\n  width: 100%;\n}",
+          "alias": "code-editor",
+          "_tags": [
+            "Extension"
+          ],
+          "_name": "pro.custom-html",
+          "_anchor": "custom-html-k",
+          "_PHPplaceholders": [],
+          "_JSplaceholders": []
         },
         {
           "_params": {
@@ -365,7 +379,7 @@
             "overlayOpacity": 0.75
           },
           "title": "",
-          "subtitle": "Maklumat &amp; Panduan bole melalui Whatsapp sahaja<br><br>Overlap &amp; Pembiayaan Baharu",
+          "subtitle": "Overlap &amp; Pembiayaan Baharu",
           "text": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ratione quis quidem laboriosam, enim rem nobis ab laudantium. Aliquam, ipsum, impedit accusantium ex cum facilis ut tempora vero nesciunt mollitia ullam, quisquam quia cupiditate esse repudiandae. Vero nisi velit sint minima et adipisci culpa iusto ea obcaecati! Voluptatibus consectetur nulla, asperiores.",
           "buttons": "<a data-app-btn=\"true\" href=\"http://mobirise.com\" class=\"btn btn-black\" role=\"button\">learn more</a>",
           "alias": "spacem/components",
