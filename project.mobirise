@@ -56,7 +56,7 @@
             "showSubtitle": true,
             "showButtons": true,
             "showMedia": true,
-            "imageSize": "16",
+            "imageSize": "10",
             "inverse": true,
             "parallax": false,
             "bgImageRadio": true,
