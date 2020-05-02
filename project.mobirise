@@ -33,7 +33,7 @@
     "favicon": "@PROJECT_PATH@/assets/images/group-of-members-users-icon-128x128.png",
     "noImageResize": "",
     "scrollAnimation": "",
-    "uniqCompNum": 21,
+    "uniqCompNum": 22,
     "versionPublish": "4.8.10",
     "screenshot": "screenshot.png"
   },
@@ -121,6 +121,20 @@
               "googleLink": "https://fonts.googleapis.com/css?family=Lato:400,300,700"
             }
           }
+        },
+        {
+          "_customTemplate": true,
+          "_afterNavbarItem": false,
+          "_customHTML": "<!-- Type valid HTML here -->\n<marquee behavior=\"scroll\" direction=\"left\">Overlap Pembiayaan-Bahru MBSB RHB-IDSB Agro AEON CIMB Public Affin  </marquee>\n",
+          "_customCSS": "/* Type valid CSS here */\n.my-image {\n  width: 100%;\n}",
+          "alias": "code-editor",
+          "_tags": [
+            "Extension"
+          ],
+          "_name": "pro.custom-html",
+          "_anchor": "custom-html-l",
+          "_PHPplaceholders": [],
+          "_JSplaceholders": []
         },
         {
           "_params": {

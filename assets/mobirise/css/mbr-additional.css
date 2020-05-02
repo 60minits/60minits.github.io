@@ -568,6 +568,12 @@ a:hover,
   font-size: 36px;
   font-family: 'Lato', sans-serif;
 }
+#custom-html-l {
+  /* Type valid CSS here */
+}
+#custom-html-l .my-image {
+  width: 100%;
+}
 #text1-f H3 {
   text-align: center;
   font-family: 'Lato', sans-serif;
