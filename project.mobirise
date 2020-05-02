@@ -125,7 +125,7 @@
         {
           "_customTemplate": true,
           "_afterNavbarItem": false,
-          "_customHTML": "<!-- Type valid HTML here -->\n<marquee behavior=\"scroll\" direction=\"left\">Overlap Pembiayaan-Bahru MBSB RHB-IDSB Agro AEON CIMB Public Affin  </marquee>\n",
+          "_customHTML": "<!-- Type valid HTML here -->\n<marquee behavior=\"scroll\" direction=\"left\">Overlap Pembiayaan-Bahru MBSB RHB-IDSB Agro AEON CIMB Public BSN BRKYT Affin  </marquee>\n",
           "_customCSS": "/* Type valid CSS here */\n.my-image {\n  width: 100%;\n}",
           "alias": "code-editor",
           "_tags": [
