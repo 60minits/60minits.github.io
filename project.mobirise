@@ -55,7 +55,7 @@
             "showTitle": true,
             "showSubtitle": true,
             "showButtons": true,
-            "showMedia": true,
+            "showMedia": false,
             "imageSize": "10",
             "inverse": true,
             "parallax": false,
@@ -74,7 +74,7 @@
           "media": {
             "image": {
               "class": "mbr-figure__img",
-              "src": "@PROJECT_PATH@/assets/images/yoast-avatar-joost-rd-x2-283x269.png",
+              "src": "@PROJECT_PATH@/assets/images/yoast_avatar_joost_rd_x2-283x269.png",
               "link": "",
               "alt": "",
               "title": "",
