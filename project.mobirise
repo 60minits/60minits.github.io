@@ -89,8 +89,8 @@
             }
           },
           "title": "60 Minits",
-          "text": "<b>Overlap, Pembiayaan Baharu, Hire Purchase</b><br><br><b>Pembiayaan Peribadi 2020</b>",
-          "buttons": "<a data-app-btn=\"true\" href=\"https://wa.me/60192221667\" class=\"btn btn-warning\" role=\"button\">Whatsapp Kami</a>  ",
+          "text": "<b>Overlap &amp; Pembiayaan Baharu</b><br><br><b>Pembiayaan Peribadi 2020</b><br><b>Maksimum boleh 250K</b>",
+          "buttons": "<a data-app-btn=\"true\" href=\"https://wa.me/60192221667\" class=\"btn btn-warning\" role=\"button\">Whatsapp Kami</a> <a data-app-btn=\"true\" href=\"https://docs.google.com/forms/d/e/1FAIpQLSd5xrxBj_gydrri69--lQEpn1xFof4r76FdT-8-kZhfjIaATw/viewform?usp=sf_link\" class=\"btn btn-success\" role=\"button\">Semak Online</a>  ",
           "alias": "spacem/components",
           "_tags": [
             "Theme"
@@ -155,7 +155,7 @@
             "overlayColor": "#151515",
             "overlayOpacity": 0.5
           },
-          "title": "Pembiayaan Peribadi<br>- Ovelap, Pembiayaan Baharu, Hire Purchase\n<div>- MBSB, Agro, CIMB, Public, AEON, Coshare, Affin, Koperasi, Hire Purchase &amp; P2P</div>",
+          "title": "Pembiayaan Peribadi<br>- Ovelap, Pembiayaan Baharu, Hire Purchase\n<div>- MBSB, Agro, CIMB, Public, AEON, Coshare, Affin, Koperasi, Hire Purchase &amp; P2P</div><div>Maksimum 250K</div>",
           "text": "",
           "buttons": "<a data-app-btn=\"true\" href=\"http://mobirise.com\" class=\"btn btn-primary\" role=\"button\">download now</a>",
           "alias": "spacem/components",
@@ -204,7 +204,7 @@
             "overlayOpacity": 0.75
           },
           "title": "",
-          "subtitle": "Permohonan mudah dan ringkas.&nbsp;<br><br>Sila semak kelayakan melalui borang online dibawah",
+          "subtitle": "Permohonan mudah dan ringkas.&nbsp;<br><br>Sila Whatsapp Kami atau Semak Kelayakan melalui borang online dibawah",
           "text": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ratione quis quidem laboriosam, enim rem nobis ab laudantium. Aliquam, ipsum, impedit accusantium ex cum facilis ut tempora vero nesciunt mollitia ullam, quisquam quia cupiditate esse repudiandae. Vero nisi velit sint minima et adipisci culpa iusto ea obcaecati! Voluptatibus consectetur nulla, asperiores.",
           "buttons": "<a data-app-btn=\"true\" href=\"http://mobirise.com\" class=\"btn btn-black\" role=\"button\">learn more</a>",
           "alias": "spacem/components",
@@ -229,7 +229,7 @@
         {
           "_customTemplate": true,
           "_afterNavbarItem": false,
-          "_customHTML": "<!-- Type valid HTML here -->\n<iframe src=\"https://docs.google.com/forms/d/e/1FAIpQLSfZ3M2cujWegkcWjX-REw7-ix43-9nLYeY8N9jX9_VIpd0zfw/viewform?\" style=\"position:relative;width:1px;min-width:100%;*width:100%;\" frameborder=\"0\" scrolling=\"yes\" seamless=\"seamless\" height=\"1000\" width=\"100%\"></iframe>",
+          "_customHTML": "<!-- Type valid HTML here -->\n<iframe src=\"https://docs.google.com/forms/d/e/1FAIpQLSd5xrxBj_gydrri69--lQEpn1xFof4r76FdT-8-kZhfjIaATw/viewform?usp=sf_link\" style=\"position:relative;width:1px;min-width:100%;*width:100%;\" frameborder=\"0\" scrolling=\"yes\" seamless=\"seamless\" height=\"1000\" width=\"100%\"></iframe>",
           "_customCSS": "/* Type valid CSS here */\n.my-image {\n  width: 100%;\n}",
           "alias": "code-editor",
           "_tags": [
